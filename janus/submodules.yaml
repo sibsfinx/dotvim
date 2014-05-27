@@ -28,10 +28,10 @@ submodules:
     irblack:
     molokai:
     pyte:
-    sampler-pack:
+    #sampler-pack:
     solarized:
     vividchalk:
-    janus-colors:
+    #janus-colors:
       dependencies:
         - sampler-pack
 
@@ -98,6 +98,7 @@ submodules:
         - webapi
     gundo:
     indent-object:
+    vim-indent-guides:
     kwbd:
     eunuch:
     matchit:
